@@ -1,0 +1,14 @@
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\x86\Release\StoreWrapper.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\x86\Release\StoreWrapper.pdb
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\x86\Release\StoreLauncher.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\x86\Release\StoreLauncher.pdb
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\obj\x86\Release\StoreWrapper.csprojResolveAssemblyReference.cache
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\obj\x86\Release\StoreWrapper.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\obj\x86\Release\StoreWrapper.pdb
+E:\MainProject\BlastGamePort\StoreWrapper\Bin\x86\Release\StoreWrapper.dll
+E:\MainProject\BlastGamePort\StoreWrapper\Bin\x86\Release\StoreWrapper.pdb
+E:\MainProject\BlastGamePort\StoreWrapper\Bin\x86\Release\StoreLauncher.dll
+E:\MainProject\BlastGamePort\StoreWrapper\Bin\x86\Release\StoreLauncher.pdb
+E:\MainProject\BlastGamePort\StoreWrapper\obj\x86\Release\StoreWrapper.csprojResolveAssemblyReference.cache
+E:\MainProject\BlastGamePort\StoreWrapper\obj\x86\Release\StoreWrapper.dll
+E:\MainProject\BlastGamePort\StoreWrapper\obj\x86\Release\StoreWrapper.pdb

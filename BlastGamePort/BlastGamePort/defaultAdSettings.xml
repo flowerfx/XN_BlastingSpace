@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CultureDescriptors>
+    <AdCultureDescriptor CultureName="en-US">
+      <Probabilities Probability="50" AdType="InnerActive" AppID="FlowerFX_BlastingSpace_WP" />
+      <Probabilities Probability="50" AdType="Smaato" AppID="65824981" SecondaryID="923876208" />
+      <Probabilities AdType="DefaultHouseAd" AppID="http://xna-uk.net/AdRotator/XNAHouseAdImage.png"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="en-GB">
+      <Probabilities Probability="50" AdType="InnerActive" AppID="FlowerFX_BlastingSpace_WP" />
+      <Probabilities Probability="50" AdType="Smaato" AppID="65824981" SecondaryID="923876208" />
+      <Probabilities AdType="DefaultHouseAd" AppID="http://xna-uk.net/AdRotator/XNAHouseAdImage.png"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="de-DE">
+      <Probabilities Probability="40" AdType="InnerActive" AppID="FlowerFX_BlastingSpace_WP" />
+      <Probabilities Probability="60" AdType="Smaato" AppID="65824981" SecondaryID="923876208" />
+      <Probabilities AdType="DefaultHouseAd" AppID="http://xna-uk.net/AdRotator/XNAHouseAdImage.png"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="default">
+      <Probabilities Probability="40" AdType="InnerActive" AppID="FlowerFX_BlastingSpace_WP" />
+      <Probabilities Probability="60" AdType="Smaato" AppID="65824981" SecondaryID="923876208" />
+      <Probabilities AdType="DefaultHouseAd" AppID="http://xna-uk.net/AdRotator/XNAHouseAdImage.png"/>
+    </AdCultureDescriptor>
+  </CultureDescriptors>
+</AdSettings>

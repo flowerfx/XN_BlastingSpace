@@ -1,0 +1,14 @@
+E:\Project\BlastGamePort\StarEffect\StarEffect\bin\Windows Phone\Debug\Content\particle_texture.xnb
+E:\Project\BlastGamePort\StarEffect\StarEffect\bin\Windows Phone\Debug\Content\particle_texture1.xnb
+E:\Project\BlastGamePort\StarEffect\StarEffect\bin\Windows Phone\Debug\StarEffect.dll
+E:\Project\BlastGamePort\StarEffect\StarEffect\bin\Windows Phone\Debug\StarEffect.pdb
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\StarEffect.dll
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\StarEffect.pdb
+E:\Project\BlastGamePort\StarEffect\StarEffect\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+E:\Project\BlastGamePort\StarEffect\StarEffect\bin\Windows Phone\Debug\StarEffect.xap
+E:\Project\BlastGamePort\StarEffect\StarEffect\obj\Windows Phone\Debug\XapCacheFile.xml

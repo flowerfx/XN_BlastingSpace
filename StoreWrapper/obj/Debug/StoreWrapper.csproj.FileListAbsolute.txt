@@ -1,0 +1,7 @@
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\obj\Debug\StoreWrapper.csprojResolveAssemblyReference.cache
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\Debug\StoreWrapper.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\Debug\StoreWrapper.pdb
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\Debug\StoreLauncher.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\Bin\Debug\StoreLauncher.pdb
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\obj\Debug\StoreWrapper.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreWrapper\obj\Debug\StoreWrapper.pdb

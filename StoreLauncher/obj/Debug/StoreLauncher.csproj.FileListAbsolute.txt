@@ -1,0 +1,10 @@
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\Bin\Debug\StoreLauncher.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\Bin\Debug\StoreLauncher.pdb
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\obj\Debug\StoreLauncher.csprojResolveAssemblyReference.cache
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\obj\Debug\StoreLauncher.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\obj\Debug\StoreLauncher.pdb
+E:\MainProject\BlastGamePort\StoreLauncher\Bin\Debug\StoreLauncher.dll
+E:\MainProject\BlastGamePort\StoreLauncher\Bin\Debug\StoreLauncher.pdb
+E:\MainProject\BlastGamePort\StoreLauncher\obj\Debug\StoreLauncher.csprojResolveAssemblyReference.cache
+E:\MainProject\BlastGamePort\StoreLauncher\obj\Debug\StoreLauncher.dll
+E:\MainProject\BlastGamePort\StoreLauncher\obj\Debug\StoreLauncher.pdb

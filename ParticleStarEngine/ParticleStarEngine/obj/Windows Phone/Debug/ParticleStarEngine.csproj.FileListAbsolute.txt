@@ -1,0 +1,15 @@
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\Content\circle.xnb
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\Content\diamond.xnb
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\Content\star.xnb
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\ParticleStarEngine.dll
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\ParticleStarEngine.pdb
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\ParticleStarEngine.dll
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\ParticleStarEngine.pdb
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\bin\Windows Phone\Debug\ParticleStarEngine.xap
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngine\obj\Windows Phone\Debug\XapCacheFile.xml

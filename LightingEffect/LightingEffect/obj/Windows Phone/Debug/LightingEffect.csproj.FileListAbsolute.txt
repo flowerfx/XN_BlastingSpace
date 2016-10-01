@@ -1,0 +1,17 @@
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\Content\Half Circle.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\Content\Lightning Segment.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\Content\Pixel.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\Content\InfoFont.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\Content\LightningFont.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\LightingEffect.dll
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\LightingEffect.pdb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\LightingEffect.dll
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\LightingEffect.pdb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Debug\LightingEffect.xap
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Debug\XapCacheFile.xml

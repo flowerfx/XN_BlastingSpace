@@ -1,0 +1,2 @@
+E:\Project\BlastGamePort\ParticleStarEngine\ParticleStarEngineContent\obj\Windows Phone\Release\ParticleStarEngineContent.contentprojResolveAssemblyReference.cache
+h:\BlastGamePort\ParticleStarEngine\ParticleStarEngineContent\obj\Windows Phone\Release\ParticleStarEngineContent.contentprojResolveAssemblyReference.cache

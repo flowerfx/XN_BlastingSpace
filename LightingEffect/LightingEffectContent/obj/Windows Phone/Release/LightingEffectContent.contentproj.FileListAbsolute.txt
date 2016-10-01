@@ -1,0 +1,2 @@
+E:\Project\BlastGamePort\LightingEffect\LightingEffectContent\obj\Windows Phone\Release\LightingEffectContent.contentprojResolveAssemblyReference.cache
+h:\BlastGamePort\LightingEffect\LightingEffectContent\obj\Windows Phone\Release\LightingEffectContent.contentprojResolveAssemblyReference.cache

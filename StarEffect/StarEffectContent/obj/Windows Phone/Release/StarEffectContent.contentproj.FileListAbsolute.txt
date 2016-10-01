@@ -1,0 +1,2 @@
+E:\Project\BlastGamePort\StarEffect\StarEffectContent\obj\Windows Phone\Release\StarEffectContent.contentprojResolveAssemblyReference.cache
+h:\BlastGamePort\StarEffect\StarEffectContent\obj\Windows Phone\Release\StarEffectContent.contentprojResolveAssemblyReference.cache

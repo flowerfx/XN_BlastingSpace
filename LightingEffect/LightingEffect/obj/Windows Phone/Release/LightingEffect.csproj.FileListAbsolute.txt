@@ -1,0 +1,33 @@
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\LightingEffect.csprojResolveAssemblyReference.cache
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\Half Circle.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\Lightning Segment.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\Pixel.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\InfoFont.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\LightningFont.xnb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\LightingEffect.dll
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\LightingEffect.pdb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\LightingEffect.dll
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\LightingEffect.pdb
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\AppManifest.xaml
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\WMAppManifest.xml.g
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\LightingEffect.xap
+E:\Project\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\XapCacheFile.xml
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\Half Circle.xnb
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\Lightning Segment.xnb
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\Pixel.xnb
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\InfoFont.xnb
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\Content\LightningFont.xnb
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\LightingEffect.dll
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\LightingEffect.pdb
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\LightingEffect.csprojResolveAssemblyReference.cache
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\LightingEffect.dll
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\LightingEffect.pdb
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\AppManifest.xaml
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\WMAppManifest.xml.g
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\WMAppManifest.xml
+h:\BlastGamePort\LightingEffect\LightingEffect\bin\Windows Phone\Release\LightingEffect.xap
+h:\BlastGamePort\LightingEffect\LightingEffect\obj\Windows Phone\Release\XapCacheFile.xml

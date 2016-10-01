@@ -1,0 +1,13 @@
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\Bin\Release\StoreLauncher.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\Bin\Release\StoreLauncher.pdb
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\obj\Release\StoreLauncher.dll
+c:\users\nate\documents\visual studio 2012\Projects\StoreWrapper\StoreLauncher\obj\Release\StoreLauncher.pdb
+C:\Users\4cie\Downloads\WP8 Store Wrapper for IAP\C#\StoreLauncher\Bin\Release\StoreLauncher.dll
+C:\Users\4cie\Downloads\WP8 Store Wrapper for IAP\C#\StoreLauncher\Bin\Release\StoreLauncher.pdb
+C:\Users\4cie\Downloads\WP8 Store Wrapper for IAP\C#\StoreLauncher\obj\Release\StoreLauncher.dll
+C:\Users\4cie\Downloads\WP8 Store Wrapper for IAP\C#\StoreLauncher\obj\Release\StoreLauncher.pdb
+E:\MainProject\BlastGamePort\StoreLauncher\Bin\Release\StoreLauncher.dll
+E:\MainProject\BlastGamePort\StoreLauncher\Bin\Release\StoreLauncher.pdb
+E:\MainProject\BlastGamePort\StoreLauncher\obj\Release\StoreLauncher.dll
+E:\MainProject\BlastGamePort\StoreLauncher\obj\Release\StoreLauncher.pdb
+E:\MainProject\BlastGamePort\StoreLauncher\obj\Release\StoreLauncher.csprojResolveAssemblyReference.cache

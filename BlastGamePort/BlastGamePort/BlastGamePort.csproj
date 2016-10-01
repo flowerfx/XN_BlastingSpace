@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{2993A360-75D4-44B2-B4F3-F39A721C1DD4}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Windows Phone</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BlastGamePort</RootNamespace>
+    <AssemblyName>BlastGamePort</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows Phone</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>cc01a78c-a7f3-4c87-bf5e-015d50fc9276</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <XnaRefreshLevel>1</XnaRefreshLevel>
+    <WPTombstoneEnabled>false</WPTombstoneEnabled>
+    <XapFilename>$(AssemblyName).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <XnaWindowsPhoneManifestTemplate>Properties\WMAppManifest.xml</XnaWindowsPhoneManifestTemplate>
+    <TileImage>Background.png</TileImage>
+    <TileTitle>Blasting Space</TileTitle>
+    <SupportedCultures>
+    </SupportedCultures>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>PhoneGameThumb.png</Thumbnail>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Windows Phone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows Phone\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Windows Phone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows Phone\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+    <LangVersion>4</LangVersion>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdDuplex.Xna">
+      <HintPath>.\AdDuplex.Xna.dll</HintPath>
+    </Reference>
+    <Reference Include="AdRotatorXNA">
+      <HintPath>.\AdRotatorXNA.dll</HintPath>
+    </Reference>
+    <Reference Include="App42_WINDOWS_API_2.0">
+      <HintPath>.\App42_WINDOWS_API_2.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook">
+      <HintPath>.\Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Client">
+      <HintPath>.\Facebook.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Advertising.Mobile.Xna, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Reactive, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json.WindowsPhone">
+      <HintPath>.\Newtonsoft.Json.WindowsPhone.dll</HintPath>
+    </Reference>
+    <Reference Include="SOMAWP7">
+      <HintPath>.\SOMAWP7.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Character\ChapterManager.cs" />
+    <Compile Include="Character\CharacterManager.cs" />
+    <Compile Include="Character\ItemDrop.cs" />
+    <Compile Include="EffectInGame\Meteor\MeteorManager.cs" />
+    <Compile Include="EffectInGame\ShowTextEffect.cs" />
+    <Compile Include="EffectInGame\SpaceStarEffect\CoreSpaceStar.cs" />
+    <Compile Include="EffectInGame\SpaceStarEffect\SpaceStarEffect.cs" />
+    <Compile Include="EntityChild\PointExplosive.cs" />
+    <Compile Include="MenuManager\AddNameMenu.cs" />
+    <Compile Include="MenuManager\ChapterSelectMenu.cs" />
+    <Compile Include="MenuManager\ControlMenu.cs" />
+    <Compile Include="MenuManager\HUDMenu.cs" />
+    <Compile Include="MenuManager\IAPMenu.cs" />
+    <Compile Include="MenuManager\IGM.cs" />
+    <Compile Include="MenuManager\InGameStatusMenu.cs" />
+    <Compile Include="MenuManager\LoadingMenu.cs" />
+    <Compile Include="MenuManager\OptionMenu.cs" />
+    <Compile Include="MenuManager\ReadyMenu.cs" />
+    <Compile Include="MenuManager\ResultMenu.cs" />
+    <Compile Include="MenuManager\Tutorial.cs" />
+    <Compile Include="MenuManager\UpgradeDetailMenu.cs" />
+    <Compile Include="MenuManager\UpgradeMenu.cs" />
+    <Compile Include="SaveGame\SaveLoadManager.cs" />
+    <Compile Include="SocialFeature\App42Api.cs" />
+    <Compile Include="SocialFeature\GlobalContext.cs" />
+    <Compile Include="SocialFeature\ScoreListItem.cs" />
+    <Compile Include="SocialFeature\SocialManager.cs" />
+    <Compile Include="Ultility\Art.cs" />
+    <Compile Include="EntityChild\BlackHole.cs" />
+    <Compile Include="EffectInGame\Bloom\BloomComponent.cs" />
+    <Compile Include="EffectInGame\Bloom\BloomSettings.cs" />
+    <Compile Include="EntityChild\Bullet.cs" />
+    <Compile Include="Ultility\BackgroundTexture.cs" />
+    <Compile Include="Ultility\ButtonTexture.cs" />
+    <Compile Include="Ultility\ColorUtil.cs" />
+    <Compile Include="EntityChild\EnemySpawner.cs" />
+    <Compile Include="EntityChild\Enemy.cs" />
+    <Compile Include="MenuManager\EntityMenu.cs" />
+    <Compile Include="Ultility\DeCryptData.cs" />
+    <Compile Include="Ultility\Grid.cs" />
+    <Compile Include="InGameManager.cs" />
+    <Compile Include="Ultility\IAPManager.cs" />
+    <Compile Include="Ultility\Input.cs" />
+    <Compile Include="EffectInGame\LightPoint\LightPoint.cs" />
+    <Compile Include="MenuManager\MainMenu.cs" />
+    <Compile Include="Ultility\MathUtil.cs" />
+    <Compile Include="MenuManager\MenuManager.cs" />
+    <Compile Include="EffectInGame\ParticleExplosive\ParticleManager.cs" />
+    <Compile Include="EffectInGame\ParticleExplosive\ParticleState.cs" />
+    <Compile Include="EntityChild\PlayerShip.cs" />
+    <Compile Include="EntityChild\PlayerStatus.cs" />
+    <Compile Include="Ultility\MeteorData.cs" />
+    <Compile Include="Ultility\Sound.cs" />
+    <Compile Include="EntityManager\Entity.cs" />
+    <Compile Include="EntityManager\EntityManager.cs" />
+    <Compile Include="Ultility\Extensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ultility\StarParticleData.cs" />
+    <None Include="Properties\AppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+    <None Include="StoreWrapper.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="defaultAdSettings.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Game.ico" />
+    <Content Include="PhoneGameThumb.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="Background.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="WideTile.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\StoreLauncher\StoreLauncher.csproj">
+      <Project>{197E7BF3-EFA9-49B4-8060-6418E7BA9EA0}</Project>
+      <Name>StoreLauncher</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BlastGamePortContent\BlastGamePortContent.contentproj">
+      <Name>BlastGamePortContent %28Content%29</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+      <Project>{99D66A8F-C36B-4063-9274-AE4ACBA255CE}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

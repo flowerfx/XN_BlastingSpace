@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="StarEffect" EntryPointType="Particle_Demo.ParticleDemo" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="StarEffect" Source="StarEffect.dll" />
+  </Deployment.Parts>
+</Deployment>
